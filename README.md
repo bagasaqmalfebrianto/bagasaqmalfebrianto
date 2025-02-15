@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm **Bagas Aqmal Febrianto!**
 
-Saya adalah mahasiswa tingkat akhir **Informatika** di **Universitas Singaperbangsa Karawang (UNSIKA)** dengan minat utama dalam **Analisis Data, Machine Learning, dan Manajemen Proyek**.  
+I am a final-year **Informatics** student at **Universitas Singaperbangsa Karawang (UNSIKA)** with a strong passion for **Data Analysis, Machine Learning, and Project Management**.    
 
 ## **🛠️ Tech Stack**  
 <p align="left">  
@@ -35,4 +35,4 @@ Saya adalah mahasiswa tingkat akhir **Informatika** di **Universitas Singaperban
 🚀 **GitHub:** [Bagas Aqmal Febrianto](https://github.com/bagasfeb)  
 
 
-**💡 Tertarik bekerja sama atau berdiskusi?** Jangan ragu untuk menghubungi saya! 🚀
+**💡 Interested in collaborating or discussing?** Feel free to contact me! 🚀
